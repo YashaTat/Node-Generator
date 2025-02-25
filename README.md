@@ -20,7 +20,7 @@ The **Node Generator** is a tool designed to create, manipulate, and evaluate gr
 
 ### Clone the Repository
 ```sh
-git clone <repository-url>
+git clone https://github.com/YashaTat/Node-Generator.git
 cd node-generator
 ```
 
