@@ -38,8 +38,5 @@ go run main.go
 ## View the results
 The program prints the used nodes, the assigned PCIs and corresponding KPIs for each assignment approach in a structured output format.
 
-## License
-This program is released under the MIT Licencse . Feel free to modify and improve the code. 
-
 ## Author
 YashaTat - Developed as part of "Automated PCI Assignment xApp for OpenRAN-based 5G networks"
